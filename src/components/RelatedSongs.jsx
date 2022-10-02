@@ -8,7 +8,7 @@ const RelatedSongs = ({
   handlePlayClick,
   artistId,
 }) => (
-  <div className="flex flex-col ">
+  <div className="flex flex-col mt-20">
     <h1 className="font-bold text-3xl text-white">Related Songs</h1>
     <div className="my-6 w-full flex flex-col ">
       {data?.map((song, i) => (
