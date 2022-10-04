@@ -1,6 +1,7 @@
 # SPOTIFY V2.0
 
-This is an improved music player project.I use Shazam Core API,and Ip API
+This is an improved music player project.I use Shazam Core API,and Ip API.I use redux toolkit for manage request with different endpoints.
+
 
 ## TECHNOLOGIES/PACKAGES I USE
 * React
@@ -21,11 +22,12 @@ This is an improved music player project.I use Shazam Core API,and Ip API
 
 
 
-I use redux toolkit for manage request with different endpoints.
 
 
 
 ## Demo Link :https://better-spotify.netlify.app/
+
+## Screenshots:
 
 ![image](https://user-images.githubusercontent.com/22106880/193797750-aa980c9b-b193-40ca-a7f1-3923802e835e.png)
 ![image](https://user-images.githubusercontent.com/22106880/193797949-ebf143a1-10f4-47bc-a38b-bd4ad76a6fd2.png)
